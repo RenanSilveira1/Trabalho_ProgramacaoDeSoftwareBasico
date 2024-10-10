@@ -1,0 +1,9 @@
+Nome: Renan Rubbo Silveira
+
+Como rodar o programa: para compilar gcc -o zoom zoom.c lib_ppm.c
+Para rodar ./zoom imagem_entrada.ppm imagem_saida.ppm
+
+Referencias: https://www.homeandlearn.co.uk/extras/picture-viewer/zoom-in-zoom-out.html
+https://www.geeksforgeeks.org/digital-image-processing-basics/
+https://www.geeksforgeeks.org/c-program-to-read-contents-of-whole-file/
+https://medium.com/@chathuragunasekera/image-resampling-algorithms-for-pixel-manipulation-bee65dda1488
